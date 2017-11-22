@@ -1,0 +1,55 @@
+body{
+	
+	background:linear-gradient(cyan, white, pink);
+}
+
+
+/*image du logo*/
+.img-responsiv{
+	width: 100%;
+	position: absolute;
+	top: 0; left: 0;
+	height: 6em;
+	/*margin: auto;*/	
+}
+
+
+/*slide presentation societe*/
+.presentation{
+	/*margin-top: 2em;*/
+	display: inline-flex;
+}
+#wowslider-container1{
+	margin-top: 12em;
+	margin-left: 3em;
+}
+#descriptifEntreprise{
+	margin-top: 8em;
+	margin-left: 2em;
+	font-style: italic;
+	font-weight: 800;
+}
+
+
+/*slide des catalogue*/
+#carrousel{
+    position:relative;
+    margin-top: 1em;
+}
+.img-responsive{
+	width: 38em;
+	height: 20em;
+	margin-right: -2em;
+}
+
+/*footer*/
+footer{
+	width: auto;
+	height: 4em;
+	margin: 0;
+	background:linear-gradient(60deg, purple, white, purple);
+}
+
+img #logoreseaux{
+	text-align: center;
+}
